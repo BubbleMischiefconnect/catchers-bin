@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "title": "OBJECTIVE",
+        "content": "Catch colored balls with matching baskets to score points."
+    },
+    {
+        "id": "2",
+        "title": "CONTROLS",
+        "content": "Swipe left/right to move baskets. Each basket catches only its color."
+    },
+    {
+        "id": "3",
+        "title": "SCORING",
+        "content": "White balls: 1.2x points\nPink balls: 1.2x points\nYellow balls: 1.5x points"
+    },
+    {
+        "id": "4",
+        "title": "GAME OVER",
+        "content": "Game ends if any ball reaches the bottom. Try to beat your high score!"
+    }
+]
